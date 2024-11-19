@@ -14,12 +14,3 @@ The solutions are organized by chapter:
 Each folder contains:
 - Example test files.
 - Notes or comments about the exercises.
-
-## Setup Instructions
-
-To run the tests locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pytest-testing-exercises.git
-   cd pytest-testing-exercises
